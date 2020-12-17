@@ -5,7 +5,7 @@ Talend Job to export data from postgreSQL database to csv files.
 
 
 ## Import and Build in Talend OpenStudio
-This Talend project can be imported and build in Talned open studio for ESB.
+This [Talend project](./EXPORT_PROD_CATALOGUE) can be imported and build in Talend open studio for ESB.
 
 ![alttext](./images/ImportProject.PNG?raw=true)
 
