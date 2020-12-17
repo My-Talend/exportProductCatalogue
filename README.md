@@ -27,6 +27,7 @@ The expected Response is as below
 Context variables needs to be congured according to the envirionment as mentioned below
 
 | Context Variable | Description  |
+--- | ---
 | postgresHost | PostgreSQL database host IP| 
 | postgresPort | PostgreSQL database port| 
 | postgresUser | PostgreSQL database username| 
